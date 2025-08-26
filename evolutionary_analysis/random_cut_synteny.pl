@@ -17,7 +17,6 @@ while (<FA>) {
 	$total_len=length($seq);
 }
 
-#my @random=(1632,3278,5574);
 my @random=(162,378,574,848,268);
 
 `mkdir -p each_seq`;
