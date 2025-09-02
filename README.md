@@ -1,8 +1,5 @@
 # Genomic_tools_for_turtle_phylogenomics
 
-## Introduction
-
-This repository contains a collection of Perl scripts for population and evolutionary genetics analyses. The scripts are organized into three main directories: `PSMC`, `Sequence_variations`, and `evolutionary_analysis`. Below is a description of the scripts and their functionalities.
 
 ---
 
