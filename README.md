@@ -43,9 +43,3 @@ These two scripts work in tandem to convert MAF (Multiple Alignment Format) file
 * **`connect.pep.pl`**
 
     This script concatenates single-copy orthologous genes from multiple species. The resulting concatenated sequence alignment can be used to construct a robust gene tree.
-
-### 3. Species Tree Construction from Synteny Blocks
-
-* **`random_cut_synteny.pl`**
-
-    This script is designed to work with FASTA files that have been converted from whole-genome or synteny alignments in MAF format. It randomly fragments the alignment into smaller blocks, which can then be used as individual markers for constructing a species tree.
